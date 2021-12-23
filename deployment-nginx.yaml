@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: specti
-        image: chrisxave/test1:3.0
+        image: chrisxave/test1:4.0
         ports:
         - containerPort: 80
